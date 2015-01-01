@@ -1,1 +1,1 @@
-This project is the first one I started when learning Python.  It started out with simple object-oriented principles, and I added in a pickling process and then a shelving process.  I will continue to work on this project as I expand my knowledge of Python, SQL, and other languages/features.
+This project is the first one I started when learning Python.  It started out with some simple OOP principles, and I added in a pickling process and then a shelving process to persist data.
